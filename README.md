@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @supasuge
-- 👀 I’m interested in Cybersecurity, although my passion lies in Vulnerability Research and Cryptography.
-- ⚡ Fun fact: The sky is blue
+- 👀 Cybersecurity 
 - 🎌 CTF Player with Team L3ak
 
 <!---
