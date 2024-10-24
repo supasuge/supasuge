@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @supasuge
-- 👀 Cybersecurity 
+- 👀 Passionate about Cybersecurity & Cryptography
 - 🎌 CTF Player with Team L3ak
 
 <!---
