@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supasuge
 - 👀 Passionate about IT, Cybersecurity, & Cryptography
 - 🎌 CTF Player with Team L3ak
-- 📝 Checkout my Blog: https://supasuge.github.io - Large re-work currently underway to update posts with recent writeup's and improve the design/consistency of writeup formatting.
+- 📝 Checkout my Blog: https://supasuge.github.io - (Currently down & under maintenance) 
 
 <!---
 supasuge/supasuge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
