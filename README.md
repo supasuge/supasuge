@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @supasuge
-- 👀 Passionate about IT, Cybersecurity, & Cryptography
+- 👋 Hi, I’m @supasuge, Cybersecurity Student & Aspiring Professional
+- 👀 Passionate about Programming, Math, and Electronics.
 - 🎌 CTF Player with Team L3ak
-- 🕳️ Certified AppSec Practitioner
 - 🐧 Major Linux enjoyer
-- 📝 Checkout my Blog: [supasuge.github.io](https://supasuge.github.io) - **Currently down & under maintenance**
+- 🕳️ Certifications:
+  - [x] Certified AppSec Practitioner
+  *...to be continued*
+
+
 
 <!---
 supasuge/supasuge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
