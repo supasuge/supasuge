@@ -4,7 +4,7 @@
 - 🐧 Major Linux enjoyer
 - 🕳️ Certifications:
   - [x] Certified AppSec Practitioner
-  *...to be continued*
+  - [ ] *...to be continued*
 
 
 
