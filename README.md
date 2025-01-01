@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @supasuge, Cybersecurity Student & Aspiring Professional
+- 👋 Hi, I’m @supasuge, Cybersecurity Student & Vulnerability researcher
 - 🎌 CTF Player with Team L3ak
-- Major Linux enjoyer
+- 🐧Major Linux enjoyer
 - 🕳Certifications:
   - [x] Certified AppSec Practitioner
-
+  
 
 
 
