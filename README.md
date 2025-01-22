@@ -1,5 +1,3 @@
-![badge](https://tryhackme-badges.s3.amazonaws.com/supasuge.png)
-
 - 👋 Hi, I’m @supasuge, Cybersecurity Student
 - 🎌 CTF Player with Team L3ak
 - 🛠️ Passionate about Cryptography, Applied Mathematics/Engineering, and Linux
