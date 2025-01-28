@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @supasuge, Cybersecurity Student
-- 🎌 CTF Player with Team L3ak
-- 🛠️ Passionate about Cryptography, Applied Mathematics/Engineering, and Linux
+- 🎌 CTF Player with Team L3ak, OCC IT Club member, and CyberOU volunteer/member
+- 🛠️ Passionate about Cryptography, Cybersecurity, Applied Mathematics/AI, and Linux
 - 🐧 Major Linux enjoyer
 - 🕳 Certifications:
   - [x] Certified AppSec Practitioner
