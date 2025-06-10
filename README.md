@@ -5,8 +5,12 @@
 - 🐧 Major Linux enjoyer 
 - 🕳 Certifications:
   - [x] Certified AppSec Practitioner
-  
+- [TryHackMe Profile](https://tryhackme.com/p/supasuge)
+- [HackTheBox Labs Profile: supasuge](https://app.hackthebox.com/profile/1492227)
+- [CryptoHack: gxdqpardo](https://cryptohack.org/user/gxdqpardo/)
+... + More! 
 
+Pay for my certs plz <3!
 
 
 <!---
