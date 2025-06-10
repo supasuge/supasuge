@@ -17,7 +17,7 @@
 ---
 
 ## 🛡️ Certifications
-- [![AppSec Practitioner](https://img.shields.io/badge/Certified%20AppSec-Practitioner-blue?style=flat&logo=OWASP&logoColor=white)](https://www.owasp.org)
+- [![Certified AppSec Practitioner(CASP)](https://img.shields.io/badge/Certified%20AppSec-Practitioner-blue?style=flat&logo=OWASP&logoColor=white)](https://secops.group/product/certified-application-security-practitioner/)
 
 ---
 
@@ -47,6 +47,10 @@
 - 🔑 Cryptographic Attacks & Defenses
 - 🤖 AI in Security Automation
 - 📊 Data Analysis & Applied Math
+- Malware Research & EDR/IDS Evasion
+- Cyber Threat Intel
+- Obfuscation & Polymorphism
+- Dynamic Programming
 
 ---
 
