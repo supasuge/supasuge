@@ -51,8 +51,8 @@
 ---
 
 ## 📫 Get in Touch
-- Twitter: [@supasuge_sec](https://twitter.com/supasuge_sec)
-- LinkedIn: [supasuge](https://www.linkedin.com/in/supasuge)
+- Twitter: *Coming soon...* | Pretty sure I have an account but I don't use it/can't remember so I'll come back to this eventually. Probably try `@supasuge` or `@supasuge007`
+- LinkedIn: [Evan Pardon](https://www.linkedin.com/in/evan-pardon)
 
 ---
 
@@ -60,4 +60,4 @@
 
 ---
 
-<small>Feel free to sponsor my certs ❤️‍🔥</small>
+<small>Feel free to sponsor my certs ❤️‍🔥... I can barely afford to live but am capable of so much more than my education and/or certifications are able to show for!</small>
