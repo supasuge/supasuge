@@ -45,17 +45,12 @@
 ## 💬 Ask Me About
 - 🔒 Penetration Testing & Ethical Hacking
 - 🔑 Cryptographic Attacks & Defenses
-- 🤖 AI in Security Automation
-- 📊 Data Analysis & Applied Math
-- Malware Research & EDR/IDS Evasion
 - Cyber Threat Intel
-- Obfuscation & Polymorphism
-- Dynamic Programming
+
 
 ---
 
 ## 📫 Get in Touch
-- Twitter: *Coming soon...* | Pretty sure I have an account but I don't use it/can't remember so I'll come back to this eventually. Probably try `@supasuge` or `@supasuge007`
 - LinkedIn: [Evan Pardon](https://www.linkedin.com/in/evan-pardon)
 
 ---
