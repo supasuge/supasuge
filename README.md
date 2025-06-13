@@ -12,7 +12,7 @@
 - 🎓 Currently diving deep into **Cryptography**, **Applied Mathematics**, **AI**, and **Cybersecurity**
 - 🛠️ Passionate about building secure systems and breaking vulnerable ones (ethically!)
 - 🏆 CTF player on **Team L3ak**
-- 🐧 Major **Linux** enjoyer (Arch + Hyprland enjoyer... *I like to go fast, and touch grass on the weekends*)
+- 🐧 Major **Linux** enjoyer (*I still touch grass, don't worry...*)
 
 ---
 
