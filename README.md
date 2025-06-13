@@ -59,4 +59,4 @@
 
 ---
 
-<small>Feel free to sponsor my certs ❤️‍🔥... I can barely afford to live but am capable of so much more than my education and/or certifications are able to show for!</small>
+<small>Feel free to sponsor my certs ❤️‍🔥... </small>
