@@ -53,11 +53,24 @@
 - 🔎 OSINT
 - 🐍 Python Scripting
 
+## Languages
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,bash,c,sage" alt="Languages" />
+</div>
 
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: [Evan Pardon](https://www.linkedin.com/in/evan-pardon)
+
+<p align="center">
+  <a href="https://linkedin.com/in/evan-pardon" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-evan--pardon-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+      
+  
 
 ---
 
