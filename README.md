@@ -12,13 +12,13 @@
 - 🎓 Currently diving deep into **Cryptography**, **Applied Mathematics**, **AI**, and **Cybersecurity**
 - 🛠️ Passionate about building secure systems and breaking vulnerable ones (ethically!)
 - 🏆 CTF player on **Team L3ak**
-- 🐧 Major **Linux** enjoyer (*I still touch grass, don't worry...*)
+- 🐧 Major **Linux** enjoyer 
 
 ---
 
 ## 🛡️ Certifications
 - [![Certified AppSec Practitioner(CASP)](https://img.shields.io/badge/Certified%20AppSec-Practitioner-blue?style=flat&logo=OWASP&logoColor=white)](https://secops.group/product/certified-application-security-practitioner/)
-
+- *More coming soon...*
 ---
 
 ## 🌐 Profiles & Links
@@ -38,14 +38,20 @@
   <a href="https://github.com/supasuge" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-supasuge-181717?style=flat&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/evan-pardon" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-evan--pardon-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💬 Ask Me About
+## Skills/Interests
 - 🔒 Penetration Testing & Ethical Hacking
 - 🔑 Cryptographic Attacks & Defenses
-- Cyber Threat Intel
+- 💻 Cyber Threat Intel
+- 🔎 OSINT
+- 🐍 Python Scripting
 
 
 ---
