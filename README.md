@@ -52,13 +52,7 @@
 - 💻 Cyber Threat Intel
 - 🔎 OSINT
 - 🐍 Python Scripting
-
-## Languages
-
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,c,sage" alt="Languages" />
-</div>
+- xⁿ SageMath
 
 ---
 
