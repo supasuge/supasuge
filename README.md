@@ -21,6 +21,8 @@
 - *More coming soon...*
 ---
 
+
+
 ## 🌐 Profiles & Links
 <p align="center">
   <a href="https://tryhackme.com/p/supasuge" target="_blank">
@@ -56,6 +58,19 @@
 
 ---
 
+## ⚒️ Languages ⚒️
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,c" alt="Languages" />
+  <img
+    src="https://img.shields.io/badge/SageMath-8731AF?style=flat&logo=sagemath&logoColor=white"
+    alt="SageMath"
+  />
+</div>
+
+
+---
+
 ## 📫 Get in Touch
 
 <p align="center">
@@ -64,7 +79,7 @@
   </a>
 </p>
       
-  
+
 
 ---
 
