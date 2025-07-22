@@ -49,12 +49,11 @@
 ---
 
 ## Skills/Interests
-- 🔒 Penetration Testing & Ethical Hacking
-- 🔑 Cryptographic Attacks & Defenses
+- 🔒 Penetration Testing/Red Teaming & Ethical Hacking
+- 🔑 Cryptanalysis
 - 💻 Cyber Threat Intel
 - 🔎 OSINT
 - 🐍 Python Scripting
-- xⁿ SageMath
 
 ---
 
