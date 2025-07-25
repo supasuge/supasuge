@@ -53,7 +53,7 @@
 - 🔑 Cryptanalysis
 - 💻 Cyber Threat Intel
 - 🔎 OSINT
-- 🐍 Python Scripting
+- 🐍 Python, Bash, and *(some.... work in-progress)* PowerShell Scripting/Automation
 
 ---
 
