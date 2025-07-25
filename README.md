@@ -86,4 +86,4 @@
 
 ---
 
-<small>Feel free to sponsor my certs ❤️‍🔥... </small>
+<small>Feel free to sponsor my certs ❤️‍🔥....... Please. This is not a joke. </small>
