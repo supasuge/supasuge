@@ -49,6 +49,7 @@
 - 💻 Cyber Threat Intel
 - 🔎 OSINT
 - 🐍 Python, Bash, and *(some.... work in-progress)* PowerShell Scripting/Automation
+- Autonomous AI Agents
 
 ---
 
