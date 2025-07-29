@@ -4,24 +4,18 @@
 
 # Hi there, I'm **@supasuge** 👋
 
-**Cybersecurity Student** | **CTF Player** @ Team L3ak | **Linux & Cryptography Enthusiast** 🐧
+**Cybersecurity Student & General Enthusiast** | **Linux & Cryptography Enthusiast** 🐧
 
 ---
 
 ## 🔭 About Me
-- 🎓 Currently diving deep into **Cryptography**, **Applied Mathematics**, **AI**, and **Cybersecurity**
+- 🎓 Currently diving deep into **Cryptography**, **Applied Mathematics**, **AI**, and **Cybersecurity**.
 - 🛠️ Passionate about building secure systems and breaking vulnerable ones (ethically!)
-- 🏆 CTF player on **Team L3ak**
+- 🏆 CTF Competitor: I live diving into new topics and solving various categories of coding/cybersecurity related challenges.
 - 🐧 Major **Linux** enjoyer 
 
+
 ---
-
-## 🛡️ Certifications
-- [![Certified AppSec Practitioner(CASP)](https://img.shields.io/badge/Certified%20AppSec-Practitioner-blue?style=flat&logo=OWASP&logoColor=white)](https://secops.group/product/certified-application-security-practitioner/)
-- *More coming soon...*
----
-
-
 
 ## 🌐 Profiles & Links
 <p align="center">
@@ -50,7 +44,8 @@
 
 ## Skills/Interests
 - 🔒 Penetration Testing/Red Teaming & Ethical Hacking
-- 🔑 Cryptanalysis
+- 🔑 Cryptanalysis/Cryptographic Engineering
+- Security Engineering
 - 💻 Cyber Threat Intel
 - 🔎 OSINT
 - 🐍 Python, Bash, and *(some.... work in-progress)* PowerShell Scripting/Automation
