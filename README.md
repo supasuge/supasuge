@@ -4,7 +4,7 @@
 
 # Hi there, I'm **@supasuge** 👋
 
-**Cybersecurity Student & General Enthusiast** | **Linux & Cryptography Enthusiast** 🐧
+**Cybersecurity Student Enjoyer** | **Linux, Cryptography, and CTF Enthusiast** 🐧
 
 ---
 
