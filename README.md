@@ -56,15 +56,40 @@
 
 ---
 
-## ⚙️ Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,linux,git,vim" alt="Languages and tools" />
+## 🧑‍💻 Languages
+<p align="center">
+  <!-- Core + Web + SRE/SecLangs -->
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,c,js,ts,nodejs,html,css" alt="Languages" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+<p align="center">
+  <!-- OS/Editors/VCS/CI -->
+  <img src="https://skillicons.dev/icons?i=linux,kali,vim,vscode,ubuntu,debian,git,github,githubactions" alt="OS and Dev Tools" />
+  <br/>
+  <!-- Cloud/Infra -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,azure,gcp,linode" alt="Cloud and Infra" />
+  <br/>
+  <!-- Web/Runtime/Servers -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nginx,apache,postman" alt="Web Stack" />
+  <br/>
+  <!-- Databases/Queues -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" alt="Databases" />
+  <br/>
+
+</p>
+
+<!-- Optional: keep SageMath, matching your badge style -->
+<p align="center">
   <img src="https://img.shields.io/badge/SageMath-8731AF?style=flat&logo=sagemath&logoColor=white" alt="SageMath"/>
-</div>
+</p>
 
 ---
 
 ## 📫 Get in Touch
+
 <p align="center">
   <a href="https://linkedin.com/in/evan-pardon" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-evan--pardon-0077B5?style=flat&logo=linkedin&logoColor=white" />
