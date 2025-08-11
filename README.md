@@ -7,13 +7,12 @@
   Cybersecurity • Cryptography • CTFs — building and breaking (ethically) ⚔️
 </p>
 
-<!-- ===================== CTA: SUPPORT ===================== -->
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/supasuge" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="70">
   </a>
 </p>
-<p align="center"><b>If my writeups/tools helped you, a coffee keeps them coming!</b></p>
 
 ---
 
