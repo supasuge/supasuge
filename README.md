@@ -41,10 +41,6 @@
     <img alt="CryptoHack" src="https://img.shields.io/badge/CryptoHack-gxdqpardo-007ACC?style=flat&logo=googlechrome&logoColor=white" />
   </a>
   <br>
-  <a href="https://linkedin.com/in/evan-pardon" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-evan--pardon-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <br>
   <a href="https://github.com/supasuge" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-supasuge-181717?style=flat&logo=github&logoColor=white" />
   </a>
