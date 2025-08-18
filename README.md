@@ -96,35 +96,5 @@
   </a>
 </p>
 
----
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/supasuge" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="70">
-  </a>
-</p>
-
-<details>
-  <summary><b>Prefer crypto? (click to expand)</b></summary>
-
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/24/bitcoin--v1.png" alt="BTC" width="24" height="24"/> <b>Bitcoin (BTC)</b></td>
-    <td><code>bc1qxrwdmxz2at67ma5gds8c778ftnyk8qc0syjrav</code></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/24/ethereum.png" alt="ETH" width="24" height="24"/> <b>Ethereum (ETH)</b></td>
-    <td><code>0x6ED73dDe9E4f50da9a9C1d1ae176f6bcA11fa3d2</code></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/supasuge/supasuge/refs/heads/main/xmr-svgrepo-com.svg" alt="XMR" width="24" height="24"/> <b>Monero (XMR)</b></td>
-    <td><code>474r6wjVayKDqR3EHg8xLRNSSQNX9qaCPBvxLaDAXTZwctHEJDAXSTravyP6mEVGbXHJ54mpnYiG7SyG5JX3sbdQVditW3Z</code></td>
-  </tr>
-</table>
-
-</details>
-
 
 
