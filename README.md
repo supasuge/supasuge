@@ -19,7 +19,7 @@
 ## 🔭 About Me
 - 🎓 Diving deep into **Cryptography**, **Applied Math**, **AI**, and **Cybersecurity**
 - 🛠️ Passionate about building secure systems and breaking vulnerable ones (responsibly)
-- 🏆 CTF competitor — always learning, always shipping
+- 🏆 CTF competitor — always learning
 - 🐧 Proud **Linux** enjoyer
 
 > *“Security is not a product, but a process.”* – Bruce Schneier
