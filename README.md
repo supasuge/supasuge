@@ -7,12 +7,9 @@
     <img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-supasuge-101010?style=flat&logo=hackthebox&logoColor=84FA86" />
   </a>
   <br>
-  
-  <br>
   <a href="https://github.com/supasuge" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-supasuge-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/evan-pardon" target="_blank">
