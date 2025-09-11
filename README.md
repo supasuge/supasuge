@@ -7,13 +7,12 @@
     <img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-supasuge-101010?style=flat&logo=hackthebox&logoColor=84FA86" />
   </a>
   <br>
-  <a href="https://cryptohack.org/user/gxdqpardo/" target="_blank">
-    <img alt="CryptoHack" src="https://img.shields.io/badge/CryptoHack-gxdqpardo-007ACC?style=flat&logo=googlechrome&logoColor=white" />
-  </a>
+  
   <br>
   <a href="https://github.com/supasuge" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-supasuge-181717?style=flat&logo=github&logoColor=white" />
   </a>
+  
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/evan-pardon" target="_blank">
