@@ -36,6 +36,9 @@
 - 🧩 CTF player + challenge builder (web/crypto/pwn-inspired engineering problems).
   - Teams: Team L3ak, PwnSecCTF, now currently trying to start a local team for educational purposes and community engagement.  
 
+Why so private?
+> Because I very simply can and am in confident in my ability and would rather provew my worth via my work. Not past github projects, as I don't most 90%+ of the tools and full projects I've created.
+
 ---
 
 ## Languages 
