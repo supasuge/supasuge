@@ -77,7 +77,7 @@
 - **Security+**
 - **Network+**  
 - Continuous: labs, writeups, security research, and tooling
-- Many more certifications coming in the soon future, I simply lack the financial resources currently to obtain these certifications.
+- Many more certifications coming in the near future, I simply lack the financial resources currently to obtain these certifications.
   - If you know of any good, reputable, and **cheap** certification resources, please let me know!
 
 ---
