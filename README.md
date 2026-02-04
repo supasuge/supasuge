@@ -70,7 +70,8 @@
 - **CTF content** — crypto, web, pwn, misc category challenges built to teach various security content in a hands-on manner. Or just fun OSINT and Miscellaneous coding challenges.
 - **Flask/security tooling** — secure services + APIs, practical hardening patterns
 - **Static site generator**: Static site generator written in Python/Flask for blogs including an experimental challenge-response authentication for content management
-- [Personal Blog Site - supasuge.com](https://supasuge.com) *(In-progress): My personal blog site for posting various HackTheBox, TryHackMe, and CTF writeups as well as cheatsheets, notes I've accumulated overtime during my time in school, useful resources for various things, random posts on subjects of importantance to me and much more!
+- [Personal Blog Site - supasuge.com](https://supasuge.com) *(In-progress)*: My personal blog site for posting various HackTheBox, TryHackMe, and CTF writeups as well as cheatsheets, notes I've accumulated overtime during my time in school, useful resources for various things, random posts on subjects of importantance to me and much more!
+     - Incomplete project due to development issues related to my own customized Static site generator I'll open source at some point.
 ---
 
 ## Certifications
