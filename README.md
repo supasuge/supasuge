@@ -36,10 +36,6 @@
 - 🧩 CTF player + challenge builder (web/crypto/pwn-inspired engineering problems).
   - Teams: Team L3ak, PwnSecCTF, now currently trying to start a local team for educational purposes and community engagement.  
 
-**Why so private?**
-> Because I very simply can and prefer my public-facing personal information to be kept on a *"need to know"* basis.
-> I'm confident in my ability at this point in my life and would rather prove my worth & capability via my work and extreme work ethic. Not past github projects, in which I don't most 90%+ of the tools and full projects I've created for no reason in particular. Just didn't feel like going through the effort. I keep my own documentation for each and every tool in my personal Obsidian vault and that works just fine for me. As I say quite frequently: **Works for me**... And if it ain't broke, don't fix it.
-
 ---
 
 ## Languages 
