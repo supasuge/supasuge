@@ -31,10 +31,9 @@
 ## About
 - 🎓 Student at **Oakland University** (B.S. track: **Artificial Intelligence**, with a security focus)
 - 🎓 **A.S. Cybersecurity** — Oakland Community College (**Summa Cum Laude**)
-- 🐧 Daily-driving Linux (Arch-based setups, hardening, tooling, automation)
-- 🧠 Interests: **offensive security**, **cryptography**, **agentic security automation**, **secure system design**, **identity and access management**, **solving complex problems in creative/abstract ways**
+- 🐧 Linux nerd
+- 🧠 Interests: **cryptography**, **agentic security automation**, **secure system design**, **identity and access management**. I mainly just enjoy learning how things work in general.
 - 🧩 CTF player + challenge builder (web/crypto/pwn-inspired engineering problems).
-  - Teams: Team L3ak, PwnSecCTF, now currently trying to start a local team for educational purposes and community engagement.  
 
 ---
 
@@ -54,8 +53,9 @@
 
 ## Focus Areas
 - **Security Engineering:** system hardening, secure-by-default infrastructure, auth/session security
-- **Offensive Security:** You can’t defend what you don’t understand, learning how attackers break in is how you learn where to harden first and why. 
-- **Applied Cryptography:** practical attacks/defenses, protocol analysis, SageMath tooling, secure engineering, IAM, etc.
+- **Offensive Security:** You can’t defend what you don’t understand, learning how attackers break in is how you learn where to harden first and why.
+- **SOC Analyst**: As mentioned previously, it's difficult to identify anamolies if you don't know what you are looking for specifically in the first place, or the methods that are used to get there. 
+- **Applied Cryptography:** Practical attacks/defenses, protocol analysis, SageMath tooling, secure engineering, IAM, etc.
 - **Automation:** building repeatable, policy-driven workflows (CI/CD-friendly)
 - **System Administration/Support:** Managing Active Directory and Linux enterprise environments while implementing the security controls they require.
 
@@ -66,7 +66,7 @@
 - **CTF content** — crypto, web, pwn, misc category challenges built to teach various security content in a hands-on manner. Or just fun OSINT and Miscellaneous coding challenges.
 - **Flask/security tooling** — secure services + APIs, practical hardening patterns
 - **Static site generator**: Static site generator written in Python/Flask for blogs including an experimental challenge-response authentication for content management
-- [Personal Blog Site - supasuge.com](https://supasuge.com) *(In-progress)*: My personal blog site for posting various HackTheBox, TryHackMe, and CTF writeups as well as cheatsheets, notes I've accumulated overtime during my time in school, useful resources for various things, random posts on subjects of importantance to me and much more!
+- [Personal Blog Site - supasuge.com](https://supasuge.com) *(Currently down for maintenance)*: My personal blog site for posting various HackTheBox, TryHackMe, and CTF writeups as well as cheatsheets, notes I've accumulated overtime during my time in school, useful resources for various things, random posts on subjects of importantance to me and much more!
      - Incomplete project due to development issues related to my own customized Static site generator I'll open source at some point.
 ---
 
@@ -75,7 +75,6 @@
 - **Security+**
 - **Network+**  
 - Continuous: labs, writeups, security research, and tooling
-- Many more certifications coming in the near future!
 
 ---
 
