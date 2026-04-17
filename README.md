@@ -1,84 +1,180 @@
-<!-- =========================
-     supasuge / Evan Pardon
-========================== -->
+<!--
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │  supasuge / Evan Pardon — GitHub profile README                      │
+  │  Theme: terminal + elementary cellular automaton (Rule 30)           │
+  │  Regeneration: see ./scripts/ for the generators that produced the   │
+  │    hex dump, GPG fingerprint, and Rule 30 art blocks below.          │
+  │                                                                      │
+  │  Easter egg for the CTF crowd — decode this on a fresh terminal:     │
+  │    echo 'ZmxhZ3tydWxlXzMwX2lzX25vdF9hX1BSTkd9' | base64 -d           │
+  └──────────────────────────────────────────────────────────────────────┘
+-->
 
-<h1 align="center">supasuge <sub>aka</sub> Evan Pardon</h1>
+<h1 align="center">supasuge</h1>
+<p align="center"><sub>Evan Pardon · cybersecurity × AI · cryptography · CTF builder</sub></p>
 
 <p align="center">
-  Cybersecurity + AI student • Linux enthusiast • Automation-first security builder
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=84FA86&center=true&vCenter=true&width=640&lines=%24+whoami;offensive+security+%E2%80%A2+applied+cryptography+%E2%80%A2+agentic+automation;%E2%80%9CYou+can%27t+defend+what+you+don%27t+understand.%E2%80%9D" alt="typing tagline"/></a>
 </p>
+
+```text
+·································█········································
+·······························███······································
+······························██  █·····································
+·····························██ ████····································
+····························██  █   █···································
+···························██ ████ ███··································
+··························██  █    █  █·································
+·························██ ████  ██████································
+························██  █   ███     █···············  rule 30 ·······
+·······················██ ████ ██  █   ███······ a 1-D cellular automaton
+······················██  █    █ ████ ██  █···· · deterministic, chaotic
+·····················██ ████  ██ █    █ ████··· · once proposed as a PRNG
+····················██  █   ███  ██  ██ █   █··· · a decent metaphor for
+···················██ ████ ██  ███ ███  ██ ███······  this side of the web
+```
 
 <p align="center">
-  <a href="https://tryhackme.com/p/supasuge" target="_blank">
-    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-supasuge-5232E7?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/1492227" target="_blank">
-    <img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-supasuge-101010?style=for-the-badge&logo=hackthebox&logoColor=84FA86" />
-  </a>
-  <a href="https://cryptohack.org/user/gxdqpardo/" target="_blank">
-    <img alt="CryptoHack" src="https://img.shields.io/badge/CryptoHack-gxdqpardo-111827?style=for-the-badge&logo=protondrive&logoColor=white" />
-  </a>
-  <a href="https://github.com/supasuge" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-supasuge-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/evan-pardon" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-evan--pardon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://github.com/supasuge"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-supasuge-0d1117?style=for-the-badge&logo=github&logoColor=84FA86&labelColor=0d1117"/></a>
+  <a href="https://supasuge.com"><img alt="Blog" src="https://img.shields.io/badge/blog-supasuge.com-84FA86?style=for-the-badge&logo=hugo&logoColor=0d1117&labelColor=0d1117"/></a>
+  <a href="https://linkedin.com/in/evan-pardon"><img alt="LinkedIn" src="https://img.shields.io/badge/in-evan--pardon-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://tryhackme.com/p/supasuge"><img alt="TryHackMe" src="https://img.shields.io/badge/THM-supasuge-5232E7?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://app.hackthebox.com/profile/1492227"><img alt="HTB" src="https://img.shields.io/badge/HTB-supasuge-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117&labelColor=0d1117"/></a>
+  <a href="https://cryptohack.org/user/gxdqpardo/"><img alt="CryptoHack" src="https://img.shields.io/badge/CryptoHack-gxdqpardo-111827?style=for-the-badge&logo=protondrive&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
 ---
 
-## About
-- 🎓 Student at **Oakland University** (B.S. track: **Artificial Intelligence**, with a security focus)
-- 🎓 **A.S. Cybersecurity** — Oakland Community College (**Summa Cum Laude**)
-- 🐧 Linux nerd
-- 🧠 Interests: **cryptography**, **agentic security automation**, **secure system design**, **identity and access management**. I mainly just enjoy learning how things work in general.
-- 🧩 CTF player + challenge builder (web/crypto/pwn-inspired engineering problems).
+## `$ xxd identity.bin`
+
+```text
+00000000: 45 76 61 6e 20 50 61 72 64 6f 6e 00 00 00 00 00  |Evan Pardon.....|
+00000010: 4f 61 6b 6c 61 6e 64 20 55 6e 69 76 65 72 73 69  |Oakland Universi|
+00000020: 74 79 20 2d 20 42 2e 53 2e 20 41 49 00 00 00 00  |ty - B.S. AI....|
+00000030: 43 79 62 65 72 73 65 63 75 72 69 74 79 20 2b 20  |Cybersecurity + |
+00000040: 43 72 79 70 74 6f 67 72 61 70 68 79 00 00 00 00  |Cryptography....|
+00000050: 73 75 70 61 73 75 67 65 2e 63 6f 6d 00 00 00 00  |supasuge.com....|
+```
 
 ---
 
-## Languages 
-<p align="left">
-  <img alt="Python"      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Bash"        src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img alt="PowerShell"  src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img alt="Go"          src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img alt="C"           src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" />
-  <img alt="SageMath"    src="https://img.shields.io/badge/SageMath-0B7285?style=for-the-badge&logo=latex&logoColor=white" />
+## `$ neofetch`
+
+```text
+           /\              evan@supasuge
+          /  \             ─────────────────────────────────────
+         / /\ \            os          : EndeavourOS x86_64
+        / /  \ \           kernel      : Linux 6.x-zen
+       / /    \ \          shell       : zsh  +  starship
+      / /  /\  \ \         editor      : nvim (+ LazyVim)   /   vscode
+     / /  /  \  \ \        wm          : Hyprland
+    / /  /    \  \ \       langs       : Python · Rust · Go · C · Bash · SageMath
+   / /__/______\__\ \      focus       : offensive-sec, cryptanalysis, agentic auto
+  /__________________\     currently   : CTFd-ng · GPT-2-in-Rust · AutoRed · supasuge.com
+                           ethos       : "can't defend what you don't understand"
+                           uptime      : still learning
+```
+
+---
+
+## `$ nmap -sV --top-ports 16 supasuge.local`
+
+A scan of the things I keep listening on:
+
+```text
+Starting Nmap against host supasuge.local
+───────────────────────────────────────────────────────────────────────────────
+PORT       STATE  SERVICE          VERSION
+22/tcp     open   ssh              OpenSSH 9.x (I teleport. No keys, no passwords. I'm just... there).
+80/tcp     open   http             redirect → 443 
+443/tcp    open   https            Caddy + Flask + HTMX  (TLS 1.3, HSTS) 
+1337/tcp   open   ctf-build        manifest-driven challenges (crypto/web/pwn)
+2718/tcp   open   gpt2-rust        burn framework · LoRA · Ollama self-improve
+3141/tcp   open   auto-red         LangGraph multi-agent pentest orchestrator
+4096/tcp   open   cryptanalysis    lattice attacks · padding oracles · side-channel
+8080/tcp   open   fool             Rust CLI, 80+ magic-byte signatures
+9001/tcp   open   blog-cms         SHA3-256 integrity · challenge-response auth
+31337/tcp  open   homelab          AD + Linux, isolated VLANs
+───────────────────────────────────────────────────────────────────────────────
+Service detection performed against 1 host. 0 filtered, 0 closed.
+```
+
+- Just want to take some time out of my day to state that `nginx` compared to `Caddy` when used correctly is like watching the Mens Vs. Womens 100m dash finals in terms of being an all around **unit**. Solid reverse proxy, automated ACME TLS cert management... can't complain.
+    - Truth be told I don't get the above analogy made either, and have not a singlular clue what was going through my head whilst mindlessly button mashing to some catchy tunes.
+
+---
+
+## `$ ps aux --sort=-start | grep ~evan/lab/`
+
+```text
+USER   PID    START  %FOCUS  PROJECT            NOTES
+evan   1337   now    92%     CTFd-ng            Flask+HTMX CTF platform, YAML-based challenge deploys
+evan   2718   now    78%     gpt2-rust          GPT-2 from scratch in Rust (Burn), pretrain → LoRA → self-improve
+evan   3141   now    65%     AutoRed            policy-driven multi-agent offensive-sec orchestrator
+evan   4096   now    55%     supasuge.com       hardened Flask blog, SSH auth, Caddy/nginx, SHA3 integrity
+evan   8128   now    45%     fool               magic-byte spoofing / detection CLI (Rust)
+evan   6174   bg     30%     ctf-challenges     COCONUT98, SchrodingerSeed, TROPIKOS, VoltLeak, PANCAKE PANIC
+```
+
+---
+
+## `$ gpg --list-keys --fingerprint`
+
+```text
+/home/evan/.gnupg/pubring.kbx
+────────────────────────────────────────
+
+pub   rsa4096/C80848E2BE15B918 2024-01-01 [perpetual]
+      Key fingerprint = 1F77 8C43 4F79 B1FC 5D60  E55E 0961 10AF DEC1 4497
+uid           [ Certified AppSec Practitioner Certified ]
+
+pub   rsa4096/894EFF9863015891 2023-01-01 [perpetual]
+      Key fingerprint = 2502 B429 28F1 5A73 3CAE  CFF9 7D10 23E1 EFA8 65DA
+uid           [ CompTIA Security+Certified ]
+
+pub   rsa4096/911A01C7A8AF8303 2023-01-01 [perpetual]
+      Key fingerprint = EFCE 0F2C 4A32 37ED B73D  30CD AB1F DD1E 30F4 0348
+uid           [ CompTIA Network+ Certified ]
+```
+
+---
+
+## `$ cat /etc/focus_areas`
+
+| domain                   | what I actually do there                                                |
+|:-------------------------|:------------------------------------------------------------------------|
+| **security engineering** | hardening, secure-by-default infra, auth & session security, IAM        |
+| **offensive security**   | understanding the attacker so the defender knows what's worth hardening |
+| **detection / SOC**      | anomalies are invisible until you know what "normal" should look like   |
+| **applied cryptography** | protocol analysis, side-channel & lattice attacks, SageMath tooling     |
+| **automation**           | policy-driven, repeatable workflows; CI/CD-friendly security            |
+| **sysadmin**             | AD & Linux enterprise ops — you can't harden what you can't operate     |
+
+---
+
+## `$ cat /etc/motd`
+
+> *"Security is not a product, but a process."* — Bruce Schneier
+
+```text
+                                        █
+                                       ███
+                                      ██  █
+                                     ▓▓ ▓▓▓▓
+                                    ▓▓  ▓   ▓
+                                   ▒▒ ▒▒▒▒ ▒▒▒
+                                  ▒▒  ▒    ▒  ▒
+                                 ░░ ░░░░  ░░░░░░
+                                ░░  ░   ░░░     ░
+                               ·· ···· ··  ·   ···
+                              ··  ·    · ···· ··  ·
+
+# logout
+Connection to supasuge.local closed.
+```
+
+<p align="center">
+  <a href="https://buymeacoffee.com/Coffee4supasuge">
+    <img alt="bmc" src="https://img.shields.io/badge/%E2%98%95-coffee4supasuge-FFDD00?style=for-the-badge&labelColor=0d1117"/>
+  </a>
 </p>
-
-
-
----
-
-## Focus Areas
-- **Security Engineering:** system hardening, secure-by-default infrastructure, auth/session security
-- **Offensive Security:** You can’t defend what you don’t understand, learning how attackers break in is how you learn where to harden first and why.
-- **SOC Analyst**: As mentioned previously, it's difficult to identify anamolies if you don't know what you are looking for specifically in the first place, or the methods that are used to get there. 
-- **Applied Cryptography:** Practical attacks/defenses, protocol analysis, SageMath tooling, secure engineering, IAM, etc.
-- **Automation:** building repeatable, policy-driven workflows (CI/CD-friendly)
-- **System Administration/Support:** Managing Active Directory and Linux enterprise environments while implementing the security controls they require.
-
----
-
-## Recent Work/Projects
-- **AutoRed** — compliance and policy-driven, multi-agent orchestrated security assessment tool using an innovative approach combining many of the best currently known techniques and research.
-- **CTF content** — crypto, web, pwn, misc category challenges built to teach various security content in a hands-on manner. Or just fun OSINT and Miscellaneous coding challenges.
-- **Flask/security tooling** — secure services + APIs, practical hardening patterns
-- **Static site generator**: Static site generator written in Python/Flask for blogs including an experimental challenge-response authentication for content management
-- [Personal Blog Site - supasuge.com](https://supasuge.com) *(Currently down for maintenance)*: My personal blog site for posting various HackTheBox, TryHackMe, and CTF writeups as well as cheatsheets, notes I've accumulated overtime during my time in school, useful resources for various things, random posts on subjects of importantance to me and much more!
-     - Incomplete project due to development issues related to my own customized Static site generator I'll open source at some point.
----
-
-## Certifications
-- **CASP (Certified AppSec Practitioner)**
-- **Security+**
-- **Network+**  
-- Continuous: labs, writeups, security research, and tooling
-
----
-
-## Quote
-> “Security is not a product, but a process.” — Bruce Schneier
-
-[Buy me a coffee :)](https://buymeacoffee.com/Coffee4supasuge)
