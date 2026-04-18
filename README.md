@@ -11,7 +11,7 @@
 -->
 
 <h1 align="center">supasuge</h1>
-<p align="center"><sub>Evan Pardon · cybersecurity × AI · cryptography · CTF builder</sub></p>
+<p align="center"><sub>Evan Pardon · cybersecurity × AI · cryptography · Software Engineer · CTF creator + puzzle enthusiast</sub></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=84FA86&center=true&vCenter=true&width=640&lines=%24+whoami;offensive+security+%E2%80%A2+applied+cryptography+%E2%80%A2+agentic+automation;%E2%80%9CYou+can%27t+defend+what+you+don%27t+understand.%E2%80%9D" alt="typing tagline"/></a>
