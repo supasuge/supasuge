@@ -99,9 +99,6 @@ PORT       STATE  SERVICE          VERSION
 Service detection performed against 1 host. 0 filtered, 0 closed.
 ```
 
-- Just want to take some time out of my day to state that `nginx` compared to `Caddy` when used correctly is like watching the Mens Vs. Womens 100m dash finals in terms of being an all around **unit**. Solid reverse proxy, automated ACME TLS cert management... can't complain.
-    - Truth be told I don't get the above analogy made either, and have not a singlular clue what was going through my head whilst mindlessly button mashing to some catchy tunes.
-
 ---
 
 ## `$ ps aux --sort=-start | grep ~evan/lab/`
