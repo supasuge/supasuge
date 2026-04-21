@@ -64,7 +64,7 @@
            /\              evan@supasuge
           /  \             ─────────────────────────────────────
          / /\ \            os          : EndeavourOS x86_64
-        / /  \ \           kernel      : Linux 6.x-zen
+        / /  \ \           kernel      : Linux x.yzen
        / /    \ \          shell       : zsh  +  starship
       / /  /\  \ \         editor      : nvim (+ LazyVim)   /   vscode
      / /  /  \  \ \        wm          : Hyprland
