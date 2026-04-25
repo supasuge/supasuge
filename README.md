@@ -6,7 +6,8 @@
   │    hex dump, GPG fingerprint, and Rule 30 art blocks below.          │
   │                                                                      │
   │  Easter egg for the CTF crowd — decode this on a fresh terminal:     │
-  │    echo 'ZmxhZ3tydWxlXzMwX2lzX25vdF9hX1BSTkd9' | base64 -d           │
+  │    echo 'ZmxhZ3tkYW1uX3lvdV9hY3R1YWxseV90b29rX3RoZV90aW1lX3RvX2RlY29kZV90aGlzXy4uLi5I
+aXJlX21lP30gb2ggYW5kIHJ1bGVfMzBfaXNfbm90X2FfUFJORwo=' | base64 -d           │
   └──────────────────────────────────────────────────────────────────────┘
 -->
 
@@ -14,7 +15,7 @@
 <p align="center"><sub>Evan Pardon · cybersecurity × AI · cryptography · Software Engineer · CTF creator + puzzle enthusiast</sub></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=84FA86&center=true&vCenter=true&width=640&lines=%24+whoami;secrutiy+engineering+%E2%80%A2+applied+cryptography+%E2%80%A2+agentic+automation;%E2%80%9CYou+can%27t+defend+what+you+don%27t+understand.%E2%80%9D" alt="typing tagline"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=84FA86&center=true&vCenter=true&width=640&lines=%24+whoami;secrutiy+engineer+%E2%80%A2+applied+cryptography+%E2%80%A2+agentic+automation;%E2%80%9CYou+can%27t+defend+what+you+don%27t+understand.%E2%80%9D" alt="typing tagline"/></a>
 </p>
 
 ```text
